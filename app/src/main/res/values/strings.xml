@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TomatoStopwWatch</string>
+    <string name="pause">Pause</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="time">00:00:000</string>
+
 </resources>
